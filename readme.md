@@ -1,12 +1,12 @@
-# Fun tools
+# Simple and fun to use tools for creators.
 
 List of tools for building stuff (and enjoying the process).
 The criteria for selection:
 
 - Self contained. (Good out of the box experience or at least not very painful)
-- Not big learning curve.
+- Not big learning curve (Quick feedback loop).
 - Good documentation and examples.
-- Simple to use.
+- Simplicity valued.
 - No subscription needed.
 - Can be used offline.
 
